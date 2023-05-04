@@ -5,7 +5,7 @@
           <div class="inner-content">
             <p>Copyright &copy; 2023 Arrival Merch Co., Ltd.
           
-          - Design: <a rel="nofollow noopener" href="https://teyavuz.github.io" target="_blank">teyavuz</a></p>
+          - Design: <a rel="nofollow noopener" href="https://teyavuz.github.io" target="_blank">Teyavuz</a></p>
           </div>
         </div>
       </div>
